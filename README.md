@@ -1,14 +1,15 @@
 Libftprintf - Implementación Personalizada de printf
+
 Descripción:
+
 Libftprintf es un proyecto en C que consiste en la creación de una librería personalizada llamada libftprintf.a, 
 que replica la funcionalidad de la función printf() original de la libc.
 El objetivo es implementar una versión simplificada de printf(),
 soportando las conversiones %c, %s, %p, %d, %i, %u, %x, %X, y %% para imprimir diferentes tipos de datos.
 No se gestiona el buffer de printf(), y la librería se compila en un archivo estático utilizando el comando ar.
+
 📂 Estructura
-bash
-Copiar
-Editar
+
 libftprintf/
 ├── libftprintf.a        # Librería estática
 ├── ft_printf.c          # Implementación de ft_printf
