@@ -18,9 +18,6 @@ libftprintf/
 └── README.md            # Documentación
 🛠️ Instalación
 Compilar:
-sh
-Copiar
-Editar
 make
 Limpiar archivos:
 sh
