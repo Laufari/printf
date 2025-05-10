@@ -19,10 +19,8 @@ ft_printf/
 🛠️ Instalación
 Compilar:
 make
+
 Limpiar archivos:
-sh
-Copiar
-Editar
 make clean
 make fclean
 🎯 Reglas
